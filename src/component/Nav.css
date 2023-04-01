@@ -1,0 +1,31 @@
+.main{
+    display: flex;
+    align-items: center;
+}
+.one{
+    width: 80%;
+    margin-left: 10px;
+    font-size: 25px;
+    font-weight: 800;
+}
+.two{
+    width:20%;
+    font-size: 20px;  
+}
+
+@media  (max-width: 576px){
+    .main{
+        flex-direction: column;
+    }
+.one{
+    width: 100%;
+    font-size: 20px;
+    font-weight: 800;
+ 
+}
+.two{
+    width:100%;
+    font-size: 15px;  
+    justify-content: center;
+}
+}

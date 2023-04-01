@@ -3,11 +3,15 @@ import React from 'react';
 const Question = () => {
     return (
         <div>
-            <h1>Whats the different of props and State??</h1>
+            <h1>1 Whats the different of props and State??</h1>
             <p>Answer: Props sends data one components to Other components and <br />
-               state save array,object, etc data
+               state is a built-in React object that is used to contain data or information about the component
             </p>
-            <h1>WHAT does work useEffect without data load???</h1>
+
+            <h1>2 What is Usestate in React???</h1>
+            <p>UseState is a React hook,its allow to add state to a functional Component</p>
+
+            <h1>3 WHAT does work useEffect without data load???</h1>
             <p>
                 Answer:Connecting to an external system
                 

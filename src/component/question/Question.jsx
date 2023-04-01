@@ -24,9 +24,13 @@ const Question = () => {
                 R emoving unnecessary function dependencies
                 Reading the latest props and state from an Effect
                 Displaying different content on the server and the client etc....
-
-
             </p>
+
+            <h1>How to work React????</h1>
+            <p>React is a javascript programming Library.it builds for  mobile and app application <br />
+            it helps us to write a freshcode with goodexperince and we can write shortcut code
+            </p>
+            <p></p>
             
         </div>
     );
